@@ -1,0 +1,3 @@
+Callsign: W6LG | Name: Michael Scott | Location: Scranton, PA
+Name: Jim Halpert
+Location: BeachSide, CA
